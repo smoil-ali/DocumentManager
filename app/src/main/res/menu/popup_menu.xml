@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pdf"
+        android:title="PDF"/>
+    <item
+        android:id="@+id/doc"
+        android:title="DOC"/>
+    <item
+        android:id="@+id/xls"
+        android:title="XLS"/>
+    <item
+        android:id="@+id/jpeg"
+        android:title="JPEG"/>
+    <item
+        android:id="@+id/ppt"
+        android:title="PPT"/>
+    <item
+        android:id="@+id/txt"
+        android:title="TXT"/>
+
+
+</menu>
